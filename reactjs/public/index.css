@@ -1,0 +1,7 @@
+.body {
+    background-image: url('/contact-app/src/images/gedungpoltek.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* tambahkan properti lainnya sesuai kebutuhan */
+  }

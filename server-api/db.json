@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "ce101947-b7c1-4ab7-ba45-f406d6130105",
+      "nim": "2041720255",
+      "name": "Ali Ghazalikw",
+      "phoneNumber": "123456789021",
+      "email": "ali@wau.com.my"
+    },
+    {
+      "id": "a07e270b-f9fb-47b5-ad88-9cd2f2516f83",
+      "nim": "2041720256",
+      "name": "Rizka",
+      "phoneNumber": "4567890123",
+      "email": "rizka@wau.com.my"
+    },
+    {
+      "id": "0864e50f-61d4-4997-8050-08c15ddcf78b",
+      "nim": "2041720257",
+      "name": "Cinco",
+      "phoneNumber": "6789012345",
+      "email": "cinco@wau.com.my"
+    },
+    {
+      "id": "e80cc5cb-0c84-4377-aac0-e2f832931ff1",
+      "nim": "2041720253",
+      "name": "Welson Mario Naibaho",
+      "phoneNumber": "081393456340",
+      "email": "noswelvr@gmail.com"
+    },
+    {
+      "id": "bdf70996-2ee0-40c4-ac50-3bd49d2fe5fe",
+      "nim": "12345678912",
+      "name": "Welson Mario Naibaho",
+      "phoneNumber": "08139345634",
+      "email": "noswelvr@gmail.com"
+    },
+    {
+      "id": "f36e07cb-6efa-4464-88ae-ab76c1a57913",
+      "nim": "2041720253",
+      "name": "Welson Mario Naibaho",
+      "phoneNumber": "08139345634",
+      "email": "welsonmario.nbh@gmail.com"
+    },
+    {
+      "id": "3eb5ca97-8f3b-42b4-9ccb-85171e9a1fd1",
+      "nim": "2041720253",
+      "name": "Welson Mario Naibaho",
+      "phoneNumber": "08139345634",
+      "email": "welsonmario.nbh@gmail.com"
+    }
+  ]
+}

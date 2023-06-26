@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": "c6a746c1-4c62-4344-9007-2e69f76f35f0",
+      "name": "Moon",
+      "phoneNumber": "1234567890",
+      "email": "moon@wau.com.my"
+    },
+    {
+      "id": "be3b647d-6912-44fe-bc90-737a29ac85f5",
+      "name": "Alicia",
+      "phoneNumber": "1234567890",
+      "email": "alicia@wau.com.my"
+    },
+    {
+      "id": "ce101947-b7c1-4ab7-ba45-f406d6130105",
+      "name": "Ali Ghazali",
+      "phoneNumber": "1234567890",
+      "email": "ali@wau.com.my"
+    },
+    {
+      "id": "a07e270b-f9fb-47b5-ad88-9cd2f2516f83",
+      "name": "Rizka",
+      "phoneNumber": "4567890123",
+      "email": "rizka@wau.com.my"
+    },
+    {
+      "id": "0864e50f-61d4-4997-8050-08c15ddcf78b",
+      "name": "Cinco",
+      "phoneNumber": "6789012345",
+      "email": "cinco@wau.com.my"
+    },
+    {
+      "id": "74532eb9-b388-46fa-be65-e4797dbb6d29",
+      "name": "Test 1",
+      "phoneNumber": "1234567890",
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "f424fc8a-867c-4c9a-976a-1d9f89605721",
+      "name": "Test 2",
+      "phoneNumber": "0123456789",
+      "email": "test2@gmail.com"
+    }
+  ]
+}
